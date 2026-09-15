@@ -66,8 +66,7 @@ LANGUAGES
        French (native), English, R.
 
 SEE ALSO
-       <a href="https://www.thinkr.fr">thinkr.fr</a>, <a href="https://rtask.thinkr.fr">rtask.thinkr.fr</a>, engineering-shiny.org, <a href="https://github.com/ThinkR-open">ThinkR-open on
-       GitHub</a>
+       <a href="https://www.thinkr.fr">thinkr.fr</a>, <a href="https://rtask.thinkr.fr">rtask.thinkr.fr</a>, <a href="https://engineering-shiny.org">engineering-shiny.org</a>, <a href="https://github.com/ThinkR-open">ThinkR-open</a>
 
 ThinkR                            2026                               VINCENT(1)
 </pre>
